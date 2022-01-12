@@ -85,3 +85,17 @@ hr{
     width: 224px;
     height: 104px;
 }
+.course-info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.fa-sun{
+    font-size: 12px;
+}
+.fa-sun.filled{
+    color: #FFC014;
+}
+.fa-sun.empty{
+    color: #AEAEAE;
+}
